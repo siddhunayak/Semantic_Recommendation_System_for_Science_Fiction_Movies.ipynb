@@ -1,9 +1,6 @@
-Perfect — that’s an excellent project, and I can generate a professional, GitHub-ready `README.md` for it.
-Here’s your finalized version 👇
 
----
 
-````markdown
+
 # 🎬 Semantic Recommendation System for Science Fiction Movies  
 **When Search Understands Meaning**
 
@@ -154,11 +151,9 @@ response = client.query_points_groups(
 
 2. **Install dependencies**
 
-   ```bash
-   pip install -r requirements.txt
-   ```
+   
 
-   *(or manually install the core ones)*
+   ** manually install the core ones**
 
    ```bash
    pip install sentence-transformers qdrant-client llama-index transformers
@@ -194,33 +189,3 @@ response = client.query_points_groups(
 * Use **larger embedding models** (e.g., `all-mpnet-base-v2`) for deeper understanding
 * Incorporate **user preferences** to build a full-fledged recommendation engine
 
----
-
-## 👨‍💻 Author
-
-**Siddhu Nayak**
-🎓 Aspiring Data Scientist & GenAI Developer
-💡 Focused on NLP, LLMs, and Recommendation Systems
-
-📬 *Connect on [LinkedIn](https://www.linkedin.com/in/siddhu-nayak/)*
-⭐ Don’t forget to star this repo if you find it useful!
-
----
-
-## 📜 License
-
-This project is released under the **MIT License**.
-Feel free to use and modify for your own semantic search experiments.
-
----
-
-## 🧠 “From Keywords to Concepts”
-
-> The real power of semantic search lies in understanding — not just matching.
-
-```
-
----
-
-Would you like me to generate a matching `requirements.txt` file too (with all necessary dependencies like `sentence-transformers`, `qdrant-client`, `llama-index`, etc.)? It’ll make your GitHub repo instantly runnable.
-```
